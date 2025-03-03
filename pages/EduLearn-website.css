@@ -210,7 +210,7 @@ header .btns a:nth-child(2):hover {
 /* Hero */
 .hero {
     background: linear-gradient(120deg, rgba(33, 136, 55, 0.7), rgba(33, 136, 55, 0.6)),
-        url('img/background%20Edulearn.jpg');
+        url('/img/background%20Edulearn.jpg');
     height: 100vh;
     display: flex;
     padding: 0 60px;
@@ -795,7 +795,7 @@ footer .footer_content .newsletter .input button:hover {
 /* Hero2 */
 .hero2 {
     background: linear-gradient(120deg, rgba(33, 136, 55, 0.7), rgba(33, 136, 55, 0.6)),
-        url('img/background%20Edulearn.jpg');
+        url('/img/background%20Edulearn.jpg');
     height: 85vh;
     display: flex;
     padding: 0 60px;
@@ -1115,7 +1115,7 @@ footer .footer_content .newsletter .input button:hover {
 /* Hero3 */
 .hero3 {
     background: linear-gradient(120deg, rgba(33, 136, 55, 0.7), rgba(33, 136, 55, 0.6)),
-        url('img/background%20Edulearn.jpg');
+        url('/img/background%20Edulearn.jpg');
     height: 85vh;
     display: flex;
     padding: 0 60px;
@@ -1216,7 +1216,7 @@ footer .footer_content .newsletter .input button:hover {
 .join {
     padding: 60px;
     background: linear-gradient(120deg, rgba(33, 136, 55, 0.9), rgba(33, 136, 55, 0.8)),
-        url('img/background%20Edulearn.jpg');
+        url('/img/background%20Edulearn.jpg');
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -1286,7 +1286,7 @@ footer .footer_content .newsletter .input button:hover {
 .hero5,
 .hero6 {
     background: linear-gradient(120deg, rgba(33, 136, 55, 0.7), rgba(33, 136, 55, 0.6)),
-        url('img/background%20Edulearn.jpg');
+        url('/img/background%20Edulearn.jpg');
     height: 85vh;
     display: flex;
     padding: 0 60px;
